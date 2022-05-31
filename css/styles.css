@@ -62,7 +62,7 @@ body {
 }
 
 .primary-text {
-  margin-left: 10px;
+  margin-left: -13px;
   margin-top: 6px;
   margin-bottom: 6px;
   color: #d4ccb6;
@@ -191,19 +191,35 @@ body {
   color: #ffc632;
 }
 
+.container1 {
+  display: block;
+  position: relative;
+  padding-left: 45px;
+  margin-bottom: 12px;
+  cursor: pointer;
+  font-size: 22px;
+}
+
+.container1 input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+}
+
 .check {
   width: 25px;
   height: 25px;
   border-radius: 7px;
-  margin-left: -24px;
+  margin-left: -44px;
   background: #191816;
+  position: absolute;
 }
 
-.container input:checked ~ .check {
+.container1 input:checked ~ .check {
   background: #fabd22;
 }
 
-.container .check:after {
+.container1 .check:after {
   top: 5px;
   left: 8px;
   width: 5px;
@@ -221,6 +237,6 @@ body {
   display: none;
 }
 
-.container input:checked ~ .check:after {
+.container1 input:checked ~ .check:after {
   display: block;
 }
