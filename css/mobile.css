@@ -75,6 +75,21 @@
         box-shadow: 5px 5px 10px rgb(0 0 0 / 21%)
 
       }
+
+      .check {
+        width: 25px;
+        height: 25px;
+        border-radius: 7px;
+        margin-left: -71px;
+        background: #191816;
+        position: absolute;
+    }
+
+    .primary-text {
+        margin-left: -19px;
+        margin-top: 6px;
+        margin-bottom: 6px;
+        color: #d4ccb6;
     }
 
 
