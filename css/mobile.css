@@ -56,8 +56,26 @@
       .container {
         width: 90%;
         height: auto;
-        margin-top: 98rem;
       }
+
+      .logo-logo {
+        margin-top: 21px;
+        width: 0px;
+        height: 150px;
+        display: flex;
+      }
+
+      .center {
+        justify-content: center;
+        display: flex;
+        height: 33rem;
+        margin-top: 150px;
+        margin-left: -42px;
+        padding: 93px;
+        box-shadow: 5px 5px 10px rgb(0 0 0 / 21%)
+
+      }
+    }
 
 
 
@@ -65,11 +83,26 @@
         .container {
           width: 90%;
           height: auto;
-          margin-top: 98rem;
         }
+
+        .logo-logo {
+            margin-top: 21px;
+            width: 0px;
+            height: 150px;
+            display: flex;
+          }
+    
+          .center {
+            justify-content: center;
+            display: flex;
+            height: 33rem;
+            margin-top: 150px;
+            margin-left: -42px;
+            padding: 93px;
+            box-shadow: 5px 5px 10px rgb(0 0 0 / 21%)
   
         }
-  
+    }
 
 }
   
