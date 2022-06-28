@@ -7,7 +7,7 @@
 
 <br>
 
-# 🚀 **Techs**
+## 🚀 **Techs**
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -24,13 +24,13 @@ Tela de Login com HTLM5 E CSS
 
 Você pode baixar o layout do projeto através do figma [desse link](https://www.figma.com/file/QA3wCyI7LlzkrvMQCTgJFH/DD-%2F-Login-Form---CSS-(Copy)?node-id=216%3A2).
 
-# DESKTOP
+## DESKTOP
 
 <h1 align="center">
     <img alt="#" title="#" src="https://github.com/alissonandrade2020/loginformhtmlcss/blob/master/assets/web-dark-yellow.png" width="400px" />
 </h1>
 
-# MOBILE
+## MOBILE
 
 <h1 align="center">
     <img alt="#" title="#" src="https://github.com/alissonandrade2020/loginformhtmlcss/blob/master/assets/mobile-dark-yellow.png" width="400px" />
