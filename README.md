@@ -1,11 +1,3 @@
-<h1 align="center">
-    <img alt="#" title="#" src="https://github.com/alissonandrade2020/loginformhtmlcss/blob/master/assets/mobile-dark-yellow.png" width="250px" />
-</h1>
-
-<h1 align="center">
-    <img alt="#" title="#" src="https://github.com/alissonandrade2020/loginformhtmlcss/blob/master/assets/web-dark-yellow.png" width="250px" />
-</h1>
-
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -31,6 +23,18 @@ Tela de Login com HTLM5 E CSS
 ## 🔖 Layout
 
 Você pode baixar o layout do projeto através do figma [desse link](https://www.figma.com/file/QA3wCyI7LlzkrvMQCTgJFH/DD-%2F-Login-Form---CSS-(Copy)?node-id=216%3A2).
+
+# DESKTOP
+
+<h1 align="center">
+    <img alt="#" title="#" src="https://github.com/alissonandrade2020/loginformhtmlcss/blob/master/assets/web-dark-yellow.png" width="250px" />
+</h1>
+
+# MOBILE
+
+<h1 align="center">
+    <img alt="#" title="#" src="https://github.com/alissonandrade2020/loginformhtmlcss/blob/master/assets/mobile-dark-yellow.png" width="250px" />
+</h1>
 
 ## 🤔 Como contribuir
 
