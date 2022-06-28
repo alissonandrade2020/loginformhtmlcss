@@ -27,13 +27,13 @@ Você pode baixar o layout do projeto através do figma [desse link](https://www
 # DESKTOP
 
 <h1 align="center">
-    <img alt="#" title="#" src="https://github.com/alissonandrade2020/loginformhtmlcss/blob/master/assets/web-dark-yellow.png" width="250px" />
+    <img alt="#" title="#" src="https://github.com/alissonandrade2020/loginformhtmlcss/blob/master/assets/web-dark-yellow.png" width="400px" />
 </h1>
 
 # MOBILE
 
 <h1 align="center">
-    <img alt="#" title="#" src="https://github.com/alissonandrade2020/loginformhtmlcss/blob/master/assets/mobile-dark-yellow.png" width="250px" />
+    <img alt="#" title="#" src="https://github.com/alissonandrade2020/loginformhtmlcss/blob/master/assets/mobile-dark-yellow.png" width="400px" />
 </h1>
 
 ## 🤔 Como contribuir
